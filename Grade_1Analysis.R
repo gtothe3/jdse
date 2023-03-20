@@ -8,7 +8,7 @@
 
 rm(list = ls())
 
-dataDir <- "/Users/ggreivel/Desktop/ORwE/Nucor/Paper 3 Files/"
+dataDir <- " "
 
 setwd(dataDir)
 
